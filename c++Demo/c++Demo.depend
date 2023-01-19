@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1674122869 source:e:\cproj\zc\c++demo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<sys/time.h>
+	"math.h"
+	<windows.h>
+
